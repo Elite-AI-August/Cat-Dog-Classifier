@@ -42,7 +42,7 @@ In this section, we reviewed 100 examples of images that the model could not cor
 We used inception v3 to build a deep neural network in this section.
 
 In the following, we see the schematic of this network:
-
+<img src="https://cloud.google.com/tpu/docs/images/inceptionv3onc--oview.png">
 
 
 
