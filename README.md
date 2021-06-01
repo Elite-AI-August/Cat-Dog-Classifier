@@ -50,5 +50,23 @@ In the following, we see the schematic of this network:
 
 By using this deep neural network and adding several layers of convolutional neural network to it, we were able to achieve 96% accuracy.
 
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/fark00)
+
+
 
 
