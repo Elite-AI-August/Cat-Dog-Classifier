@@ -17,7 +17,7 @@ Matplotlib
 
 If you can not use GPU, using Google Colaboratory you can use the gpu to train your model.
 
-## Create Deep Neuaral Network without using CNN
+## Create a Deep Neuaral Network without using CNN
 
 ### Part 1
 Designing the primary neural network
@@ -29,5 +29,13 @@ In addition, the performance of the model was evaluated by various criteria such
 ### Part 2
 Neural Network performance is assessed by selecting and reviewing different learning rates and batch sizes.
 
-### Part3
+### Part 3
 In this section, we examined the number of layers and hidden layer neurons in different states.
+
+### Part 4
+In this section, we reviewed 100 examples of images that the model could not correctly identify and proposed and implemented several solutions to solve this problem.
+
+## Create a Deep Neural Network with the help of CNN and transfer learning
+
+
+
