@@ -1,10 +1,10 @@
-# Cat-Dog-Classifier
+# Cat-Dog-Classifier :dog: :cat:
 
 The purpose of this project is to train a model that can clasify images of dogs and cats into two separate groups.
 
 In the first to fourth parts, an attempt is made to train the model without the use of a convolutional neural networks, and in general, in each of the second to fourth parts, an attempt is made to select the best one for this problem by examining various hyperparameters.
 
-## What we do need?
+## What we do need? :bell:
 
 ```
 Keras
@@ -35,7 +35,7 @@ In this section, we examined the number of layers and hidden layer neurons in di
 ### [Part 4](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/CatDogClassifier_Part_4.ipynb)
 In this section, we reviewed 100 examples of images that the model could not correctly identify and proposed and implemented several solutions to solve this problem.
 
-**Result: In this part, we finally reached 67% accuracy!**
+**Result: In this part, we finally reached 67% accuracy!** :smiley:
 
 ## Create a Deep Neural Network with the help of CNN and transfer learning
 
@@ -48,7 +48,7 @@ In the following, we see the schematic of this network:
 
 <img src="https://cloud.google.com/tpu/docs/images/inceptionv3onc--oview.png">
 
-By using this deep neural network and adding several layers of convolutional neural network to it, we were able to achieve 96% accuracy.
+By using this deep neural network and adding several layers of convolutional neural network to it, we were able to achieve **96%** accuracy. :heart_eyes:
 
 ## Support
 
