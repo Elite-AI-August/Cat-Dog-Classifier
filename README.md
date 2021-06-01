@@ -35,7 +35,12 @@ In this section, we examined the number of layers and hidden layer neurons in di
 ### Part 4
 In this section, we reviewed 100 examples of images that the model could not correctly identify and proposed and implemented several solutions to solve this problem.
 
+**Result: In this part, we finally reached 67% accuracy!**
+
 ## Create a Deep Neural Network with the help of CNN and transfer learning
 
+We used inception v3 to build a deep neural network in this section.
+
+In the following, we see the schematic of this network:
 
 
