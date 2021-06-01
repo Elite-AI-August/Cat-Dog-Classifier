@@ -15,9 +15,9 @@ OpenCV
 Matplotlib
 ```
 
-If you can not use GPU, using Google Colaboratory you can use the gpu to train your model.
+If you can not use GPU, using Google Colaboratory you can use the gpu to train your model. :sunglasses:
 
-## Create a Deep Neuaral Network without using CNN
+## Create a Deep Neuaral Network without using CNN :weary:
 
 ### [Part 1](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/CatDogClassifier_Part_1.ipynb)
 Designing the primary neural network
@@ -37,7 +37,7 @@ In this section, we reviewed 100 examples of images that the model could not cor
 
 **Result: In this part, we finally reached 67% accuracy!** :smiley:
 
-## Create a Deep Neural Network with the help of CNN and transfer learning
+## Create a Deep Neural Network with the help of CNN and transfer learning :innocent:
 
 ### [Part 5](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/CatDogClassifier_Part_5.ipynb)
 
@@ -48,7 +48,7 @@ In the following, we see the schematic of this network:
 
 <img src="https://cloud.google.com/tpu/docs/images/inceptionv3onc--oview.png">
 
-By using this deep neural network and adding several layers of convolutional neural network to it, we were able to achieve **96%** accuracy. :heart_eyes:
+By using this deep neural network and adding several layers of convolutional neural network to it, we were able to achieve **96%** accuracy. :heart_eyes: :heart_eyes: 
 
 ## Support
 
