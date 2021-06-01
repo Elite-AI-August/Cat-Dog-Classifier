@@ -26,7 +26,7 @@ In this part, the initial neural network was designed and implemented. Drop-out 
 
 In addition, the performance of the model was evaluated by various criteria such as accuracy, Percision, Recall and F1-measure.
 
-### [Part 2](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/CatDogClassifier_Part_2_epochs.ipynb)
+### [Part 2](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/CatDogClassifier_Part_2_batch.ipynb)
 Neural Network performance is assessed by selecting and reviewing different learning rates and batch sizes.
 
 ### [Part 3](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/CatDogClassifier_Part_3.ipynb)
