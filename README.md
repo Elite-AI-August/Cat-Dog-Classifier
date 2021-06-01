@@ -28,3 +28,6 @@ In addition, the performance of the model was evaluated by various criteria such
 
 ### Part 2
 Neural Network performance is assessed by selecting and reviewing different learning rates and batch sizes.
+
+### Part3
+In this section, we examined the number of layers and hidden layer neurons in different states.
