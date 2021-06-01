@@ -44,3 +44,6 @@ We used inception v3 to build a deep neural network in this section.
 In the following, we see the schematic of this network:
 
 
+
+
+
