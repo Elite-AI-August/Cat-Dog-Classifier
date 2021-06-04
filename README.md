@@ -3,7 +3,7 @@
 The purpose of this project is to train a model that can classify images of dogs and cats into two separate groups.
 
 In the first to fourth parts, an attempt is made to train the model without the use of a convolutional neural networks, and in general, in each of the second to fourth parts, an attempt is made to select the best one for this problem by examining various hyperparameters.
-<!-- This project was done as a team by me and @MKasaei00. -->
+This project was done as a team by me and @MKasaei00.
 
 ## What we do need? :bell:
 
