@@ -65,7 +65,7 @@ Telegram id:
 ## License
 [MIT](https://github.com/farkoo/Cat-Dog-Classifier/blob/master/LICENSE)
 &#0169; 
-[Farzaneh Koohestani](https://github.com/fark00)
+[Farzaneh Koohestani](https://github.com/farkoo)
 
 
 
